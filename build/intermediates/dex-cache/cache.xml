@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Desktop yeah\Remuntada\Projects\GameA\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57f00f1cbd694454c1868e07119939c71b2eaad3">
+        <dex dex="D:\Desktop yeah\Remuntada\Projects\GameA\android\build\intermediates\pre-dexed\debug\core-1.0_ea3bf3402732466b29b5339eeed1dcb2635f370e.jar" />
+    </item>
+
+</items>
