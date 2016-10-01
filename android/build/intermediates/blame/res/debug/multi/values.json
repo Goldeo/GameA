@@ -7,8 +7,8 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 42,
-                    "endOffset": 93
+                    "endColumn": 40,
+                    "endOffset": 91
                 },
                 "from": {
                     "file": "D:\\Desktop yeah\\Remuntada\\Projects\\GameA\\android\\res\\values\\strings.xml",
@@ -16,8 +16,8 @@
                         "startLine": 3,
                         "startColumn": 4,
                         "startOffset": 56,
-                        "endColumn": 42,
-                        "endOffset": 94
+                        "endColumn": 40,
+                        "endOffset": 92
                     }
                 }
             },
@@ -25,18 +25,18 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 98,
+                    "startOffset": 96,
                     "endColumn": 39,
-                    "endOffset": 133
+                    "endOffset": 131
                 },
                 "from": {
                     "file": "D:\\Desktop yeah\\Remuntada\\Projects\\GameA\\android\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 99,
+                        "startOffset": 97,
                         "endColumn": 39,
-                        "endOffset": 134
+                        "endOffset": 132
                     }
                 }
             },
@@ -44,10 +44,10 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 138,
+                    "startOffset": 136,
                     "endLine": 11,
                     "endColumn": 12,
-                    "endOffset": 596
+                    "endOffset": 594
                 },
                 "from": {
                     "file": "D:\\Desktop yeah\\Remuntada\\Projects\\GameA\\android\\res\\values\\styles.xml",

@@ -2,11 +2,32 @@
 <items version="2" >
 
     <item
-        jar="D:\Desktop yeah\Remuntada\Projects\GameA\core\build\libs\core-1.0.jar"
-        jumboMode="false"
+        jar="D:\Desktop yeah\Remuntada\Projects\GameA\android\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
         revision="23.0.2"
-        sha1="57f00f1cbd694454c1868e07119939c71b2eaad3">
-        <dex dex="D:\Desktop yeah\Remuntada\Projects\GameA\android\build\intermediates\pre-dexed\debug\core-1.0_ea3bf3402732466b29b5339eeed1dcb2635f370e.jar" />
+        sha1="2d65947b6863b6ec7b1728429344c07f7bf17139">
+        <dex dex="D:\Desktop yeah\Remuntada\Projects\GameA\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d62e5d8687eb88e47745631e6b8aec2a26951cb5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sergey\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.9.2\e641cb91bec06bc64d9ddf7a7d7062caceec73cd\gdx-1.9.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e641cb91bec06bc64d9ddf7a7d7062caceec73cd">
+        <dex dex="D:\Desktop yeah\Remuntada\Projects\GameA\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-1.9.2_d1e1059ad54807d8e3fcf0950fbea17bba28adab\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Sergey\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.9.2\342b830bc718dc1965c8f13fc58dc500e8bd262f\gdx-backend-android-1.9.2.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="342b830bc718dc1965c8f13fc58dc500e8bd262f">
+        <dex dex="D:\Desktop yeah\Remuntada\Projects\GameA\android\build\intermediates\transforms\dex\debug\folders\1000\10\gdx-backend-android-1.9.2_6e0bdd0c9b4938ad0ac80f89c808e70be8179777\classes.dex" />
+    </item>
+    <item
+        jar="D:\Desktop yeah\Remuntada\Projects\GameA\android\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="51a045043c0e31003a8a9818aeb2d0d18eb63f94">
+        <dex dex="D:\Desktop yeah\Remuntada\Projects\GameA\android\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_feed03feb98b337f17436312acefc05afbd1a52a\classes.dex" />
     </item>
 
 </items>

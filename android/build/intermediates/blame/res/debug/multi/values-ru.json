@@ -7,8 +7,8 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 42,
-                    "endOffset": 93
+                    "endColumn": 40,
+                    "endOffset": 91
                 },
                 "from": {
                     "file": "D:\\Desktop yeah\\Remuntada\\Projects\\GameA\\android\\res\\values-ru\\strings.xml",
@@ -16,8 +16,8 @@
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 55,
-                        "endColumn": 42,
-                        "endOffset": 93
+                        "endColumn": 40,
+                        "endOffset": 91
                     }
                 }
             },
@@ -25,18 +25,18 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 98,
+                    "startOffset": 96,
                     "endColumn": 38,
-                    "endOffset": 132
+                    "endOffset": 130
                 },
                 "from": {
                     "file": "D:\\Desktop yeah\\Remuntada\\Projects\\GameA\\android\\res\\values-ru\\strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 98,
+                        "startOffset": 96,
                         "endColumn": 38,
-                        "endOffset": 132
+                        "endOffset": 130
                     }
                 }
             }
