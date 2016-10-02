@@ -1,8 +1,6 @@
 -- Merging decision tree log ---
 manifest
 ADDED from D:\Desktop yeah\Remuntada\Projects\GameA\android\AndroidManifest.xml:2:1-26:12
-	xmlns:android
-		ADDED from D:\Desktop yeah\Remuntada\Projects\GameA\android\AndroidManifest.xml:2:11-69
 	package
 		ADDED from D:\Desktop yeah\Remuntada\Projects\GameA\android\AndroidManifest.xml:3:5-29
 		INJECTED from D:\Desktop yeah\Remuntada\Projects\GameA\android\AndroidManifest.xml
@@ -15,6 +13,8 @@ ADDED from D:\Desktop yeah\Remuntada\Projects\GameA\android\AndroidManifest.xml:
 		ADDED from D:\Desktop yeah\Remuntada\Projects\GameA\android\AndroidManifest.xml:4:5-28
 		INJECTED from D:\Desktop yeah\Remuntada\Projects\GameA\android\AndroidManifest.xml
 		INJECTED from D:\Desktop yeah\Remuntada\Projects\GameA\android\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Desktop yeah\Remuntada\Projects\GameA\android\AndroidManifest.xml:2:11-69
 uses-sdk
 ADDED from D:\Desktop yeah\Remuntada\Projects\GameA\android\AndroidManifest.xml:7:5-73
 	android:targetSdkVersion
