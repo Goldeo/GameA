@@ -41,283 +41,14 @@
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/robovm_rt_1_12_0.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/validation_api_1_0_0_GA.xml" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/validation_api_1_0_0_GA_sources.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/assets/debug/atlases/atlas.pack" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/assets/debug/atlases/atlas.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/assets/debug/skins/Rod.fnt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/assets/debug/skins/Rod.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/assets/debug/skins/uiskin.atlas" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/assets/debug/skins/uiskin.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/assets/debug/skins/uiskin.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/single/drawable-xhdpi-v4.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/single/drawable-xxhdpi-v4.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/bundles/debug/instant-run/AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/mygdx/game/AndroidLauncher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/mygdx/game/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/mygdx/game/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/mygdx/game/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/mygdx/game/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/mygdx/game/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/classes/debug/com/mygdx/game/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-runtime-classes/debug/instant-run.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-safeguard/debug/tag.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/AndroidLauncher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/GameA$State.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/GameA.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/actors/backgrounds/Background.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/actors/backgrounds/BackgroundMenuScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/actors/backgrounds/BackgroundPlayScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/actors/backgrounds/MainMenu$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/actors/backgrounds/MainMenu$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/actors/backgrounds/MainMenu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/actors/buttons/ArrowButton$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/actors/buttons/ArrowButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/actors/buttons/ButtonsGroup.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/actors/buttons/DownButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/actors/buttons/PlayButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/actors/buttons/UpButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/actors/heroes/Enemy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/actors/heroes/EnemySpawner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/actors/heroes/Figure$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/actors/heroes/Figure$Direction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/actors/heroes/Figure.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/actors/heroes/Hero$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/actors/heroes/Hero.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/actors/scales/EmptyHeart.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/actors/scales/FullHeart.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/actors/scales/HP.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/actors/scales/Heart.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/actors/text/ScoreLabel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/actors/text/ScoreText.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/enums/Color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/enums/Form.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/screens/GameScreen$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/screens/GameScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/screens/MenuScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental-verifier/debug/com/mygdx/game/screens/PlayScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugAndroidTestShaders/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/incremental/mergeDebugShaders/merger.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/instant-run-support/debug/classes.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/instant-run-support/debug/coldswap.marker" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/instant-run-support/debug/manifest.crc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/instant-run-support/debug/package.marker" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/instant-run-support/debug/reload-changes.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/instant-run-support/debug/resources.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/jniLibs/debug/arm64-v8a/libgdx.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/jniLibs/debug/armeabi-v7a/libgdx.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/jniLibs/debug/armeabi/libgdx.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/jniLibs/debug/x86/libgdx.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/jniLibs/debug/x86_64/libgdx.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/restart-dex/debug/build-info.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-1.9.2_d1e1059ad54807d8e3fcf0950fbea17bba28adab/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dex/debug/folders/1000/10/gdx-backend-android-1.9.2_6e0bdd0c9b4938ad0ac80f89c808e70be8179777/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d62e5d8687eb88e47745631e6b8aec2a26951cb5/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_feed03feb98b337f17436312acefc05afbd1a52a/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_0/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_3/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_5/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_7/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/GameA$State.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/GameA.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/actors/backgrounds/Background.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/actors/backgrounds/BackgroundMenuScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/actors/backgrounds/BackgroundPlayScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/actors/backgrounds/MainMenu$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/actors/backgrounds/MainMenu$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/actors/backgrounds/MainMenu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/actors/buttons/ArrowButton$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/actors/buttons/ArrowButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/actors/buttons/ButtonsGroup.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/actors/buttons/DownButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/actors/buttons/PlayButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/actors/buttons/UpButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/actors/heroes/Enemy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/actors/heroes/EnemySpawner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/actors/heroes/Figure$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/actors/heroes/Figure$Direction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/actors/heroes/Figure.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/actors/heroes/Hero$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/actors/heroes/Hero.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/actors/scales/EmptyHeart.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/actors/scales/FullHeart.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/actors/scales/HP.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/actors/scales/Heart.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/actors/text/ScoreLabel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/actors/text/ScoreText.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/enums/Color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/enums/Form.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/screens/GameScreen$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/screens/GameScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/screens/MenuScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/extractJars/debug/folders/1/4/core-1.0.jar--1255145050/com/mygdx/game/screens/PlayScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/AndroidLauncher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/GameA$State.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/GameA.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/actors/backgrounds/Background.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/actors/backgrounds/BackgroundMenuScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/actors/backgrounds/BackgroundPlayScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/actors/backgrounds/MainMenu$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/actors/backgrounds/MainMenu$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/actors/backgrounds/MainMenu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/actors/buttons/ArrowButton$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/actors/buttons/ArrowButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/actors/buttons/ButtonsGroup.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/actors/buttons/DownButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/actors/buttons/PlayButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/actors/buttons/UpButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/actors/heroes/Enemy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/actors/heroes/EnemySpawner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/actors/heroes/Figure$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/actors/heroes/Figure$Direction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/actors/heroes/Figure.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/actors/heroes/Hero$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/actors/heroes/Hero.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/actors/scales/EmptyHeart.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/actors/scales/FullHeart.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/actors/scales/HP.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/actors/scales/Heart.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/actors/text/ScoreLabel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/actors/text/ScoreText.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/enums/Color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/enums/Form.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/screens/GameScreen$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/screens/GameScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/screens/MenuScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRun/debug/folders/1/5/main/com/mygdx/game/screens/PlayScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/com/android/tools/fd/dummy/slice_0.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_1/com/android/tools/fd/dummy/slice_1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/android/tools/fd/dummy/slice_2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/mygdx/game/actors/heroes/Enemy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/mygdx/game/actors/heroes/EnemySpawner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/mygdx/game/actors/heroes/Figure$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/mygdx/game/actors/heroes/Figure$Direction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/mygdx/game/actors/heroes/Figure.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/mygdx/game/actors/heroes/Hero$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_2/com/mygdx/game/actors/heroes/Hero.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/android/tools/fd/dummy/slice_3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/mygdx/game/actors/buttons/ArrowButton$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/mygdx/game/actors/buttons/ArrowButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/mygdx/game/actors/buttons/ButtonsGroup.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/mygdx/game/actors/buttons/DownButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/mygdx/game/actors/buttons/PlayButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_3/com/mygdx/game/actors/buttons/UpButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/android/tools/fd/dummy/slice_4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/mygdx/game/AndroidLauncher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/mygdx/game/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/mygdx/game/GameA$State.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/mygdx/game/GameA.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/mygdx/game/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/mygdx/game/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/mygdx/game/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/mygdx/game/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_4/com/mygdx/game/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/android/tools/fd/dummy/slice_5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/mygdx/game/actors/backgrounds/Background.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/mygdx/game/actors/backgrounds/BackgroundMenuScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/mygdx/game/actors/backgrounds/BackgroundPlayScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/mygdx/game/actors/backgrounds/MainMenu$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/mygdx/game/actors/backgrounds/MainMenu$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/mygdx/game/actors/backgrounds/MainMenu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/mygdx/game/actors/text/ScoreLabel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_5/com/mygdx/game/actors/text/ScoreText.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_6/com/android/tools/fd/dummy/slice_6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/android/tools/fd/dummy/slice_7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/mygdx/game/screens/GameScreen$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/mygdx/game/screens/GameScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/mygdx/game/screens/MenuScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_7/com/mygdx/game/screens/PlayScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/android/tools/fd/dummy/slice_8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/mygdx/game/enums/Color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_8/com/mygdx/game/enums/Form.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/android/tools/fd/dummy/slice_9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/mygdx/game/actors/scales/EmptyHeart.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/mygdx/game/actors/scales/FullHeart.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/mygdx/game/actors/scales/HP.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_9/com/mygdx/game/actors/scales/Heart.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJavaRes/debug/jars/2/1f/main.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/arm64-v8a/libgdx.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi-v7a/libgdx.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/armeabi/libgdx.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/x86/libgdx.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/intermediates/transforms/mergeJniLibs/debug/folders/2000/1f/main/lib/x86_64/libgdx.so" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/outputs/apk/android-debug-unaligned.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/android/build/outputs/apk/android-debug.apk" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/GameA$State.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/GameA.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/actors/backgrounds/Background.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/actors/backgrounds/BackgroundMenuScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/actors/backgrounds/BackgroundPlayScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/actors/backgrounds/MainMenu$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/actors/backgrounds/MainMenu$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/actors/backgrounds/MainMenu.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/actors/buttons/ArrowButton$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/actors/buttons/ArrowButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/actors/buttons/ButtonsGroup.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/actors/buttons/DownButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/actors/buttons/PlayButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/actors/buttons/UpButton.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/actors/heroes/Enemy.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/actors/heroes/EnemySpawner.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/actors/heroes/Figure$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/actors/heroes/Figure$Direction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/actors/heroes/Figure.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/actors/heroes/Hero$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/actors/heroes/Hero.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/actors/scales/EmptyHeart.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/actors/scales/FullHeart.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/actors/scales/HP.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/actors/scales/Heart.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/actors/text/ScoreLabel.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/actors/text/ScoreText.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/enums/Color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/enums/Form.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/screens/GameScreen$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/screens/GameScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/screens/MenuScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/classes/main/com/mygdx/game/screens/PlayScreen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/libs/core-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/core/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/build/classes/main/com/mygdx/game/desktop/DesktopLauncher.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/build/libs/desktop-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/desktop/build/tmp/jar/MANIFEST.MF" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/android/build/intermediates/res/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/android/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshotsToTreeSnapshotsIndex.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/android.iml" afterPath="$PROJECT_DIR$/android/android.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/multi/values-ru.json" afterPath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/multi/values-ru.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/android/build/intermediates/blame/res/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/android/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/android/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
     </list>
     <ignored path="GameA.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -363,11 +94,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="uiskin.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="uiskin.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/android/assets/skins/uiskin.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-442">
-              <caret line="117" column="4" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="4" />
+            <state relative-caret-position="2550">
+              <caret line="150" column="35" selection-start-line="150" selection-start-column="35" selection-end-line="150" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EnemySpawner.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/actors/heroes/EnemySpawner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -3669,7 +3410,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1378" />
+    <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -3713,7 +3454,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GameA" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -3842,59 +3593,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="screens" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GameA" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.NonAndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.NonAndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="game" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="actors" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="text" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GameA" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.NonAndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.NonAndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="game" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="actors" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scales" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -3924,71 +3623,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GameA" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.NonAndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.NonAndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="game" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="actors" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="buttons" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GameA" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="core" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.NonAndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.NonAndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="game" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="actors" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="backgrounds" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="GameA" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -4019,7 +3656,7 @@
       <recent name="com.mygdx.game.actors.heroes" />
     </key>
   </component>
-  <component name="RunManager" selected="Android App.android">
+  <component name="RunManager" selected="Application.Desktop">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
       <module name="" />
       <option name="DEPLOY" value="true" />
@@ -4404,33 +4041,33 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1378" height="744" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32879046" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28528073" sideWeight="0.52640545" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24489796" sideWeight="0.6399395" order="8" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33049405" sideWeight="0.13615733" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33049405" sideWeight="0.13615733" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26235095" sideWeight="0.3600605" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31942338" sideWeight="0.47359455" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3184569" sideWeight="0.47359455" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3267776" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5101523" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39965987" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5101523" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -4464,9 +4101,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="15" column="23" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -4620,11 +4254,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#368#369#0" expanded="false" />
-            <element signature="e#396#397#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -4632,10 +4261,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="40" column="56" selection-start-line="40" selection-start-column="56" selection-end-line="40" selection-end-column="56" />
-          <folding>
-            <element signature="e#946#947#0" expanded="true" />
-            <element signature="e#1009#1010#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -4643,7 +4268,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="17" column="41" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4651,7 +4275,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="25" column="38" selection-start-line="25" selection-start-column="38" selection-end-line="25" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4659,9 +4282,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="46" column="5" selection-start-line="46" selection-start-column="5" selection-end-line="46" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -4669,7 +4289,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="18" column="47" selection-start-line="18" selection-start-column="47" selection-end-line="18" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4677,7 +4296,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="39" column="35" selection-start-line="39" selection-start-column="35" selection-end-line="39" selection-end-column="35" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4685,7 +4303,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="17" column="25" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4693,7 +4310,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="46" column="38" selection-start-line="46" selection-start-column="38" selection-end-line="46" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4759,18 +4375,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/actors/heroes/EnemySpawner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#390#391#0" expanded="false" />
-            <element signature="e#426#427#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/android/assets/skins/Rod.fnt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -4789,9 +4393,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="15" column="23" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -4799,11 +4400,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="85" column="37" selection-start-line="85" selection-start-column="37" selection-end-line="85" selection-end-column="37" />
-          <folding>
-            <element signature="method#setIsDownOpportunity#0;class#Figure#0" expanded="false" />
-            <element signature="method#isDownMiddlePart#0;class#Figure#0" expanded="false" />
-            <element signature="method#jump#0;class#Figure#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -4821,7 +4417,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4836,7 +4431,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="9" column="27" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="27" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4850,8 +4444,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/android/assets/skins/uiskin.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-442">
-          <caret line="117" column="4" selection-start-line="117" selection-start-column="4" selection-end-line="117" selection-end-column="4" />
+        <state relative-caret-position="2550">
+          <caret line="150" column="35" selection-start-line="150" selection-start-column="35" selection-end-line="150" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/src/com/mygdx/game/actors/heroes/EnemySpawner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="0" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
           <folding />
         </state>
       </provider>
